@@ -1,0 +1,5 @@
+D:\Projects\TIO\lab10\Chat\ClassLib\bin\Debug\ClassLib.dll
+D:\Projects\TIO\lab10\Chat\ClassLib\bin\Debug\ClassLib.pdb
+D:\Projects\TIO\lab10\Chat\ClassLib\obj\Debug\ClassLib.csprojResolveAssemblyReference.cache
+D:\Projects\TIO\lab10\Chat\ClassLib\obj\Debug\ClassLib.dll
+D:\Projects\TIO\lab10\Chat\ClassLib\obj\Debug\ClassLib.pdb

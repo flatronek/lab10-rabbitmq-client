@@ -1,0 +1,12 @@
+D:\Projects\TIO\lab10\Chat\Chat\bin\Debug\Chat.exe.config
+D:\Projects\TIO\lab10\Chat\Chat\bin\Debug\Chat.exe
+D:\Projects\TIO\lab10\Chat\Chat\bin\Debug\Chat.pdb
+D:\Projects\TIO\lab10\Chat\Chat\bin\Debug\ClassLib.dll
+D:\Projects\TIO\lab10\Chat\Chat\bin\Debug\EasyNetQ.dll
+D:\Projects\TIO\lab10\Chat\Chat\bin\Debug\RabbitMQ.Client.dll
+D:\Projects\TIO\lab10\Chat\Chat\bin\Debug\ClassLib.pdb
+D:\Projects\TIO\lab10\Chat\Chat\bin\Debug\EasyNetQ.xml
+D:\Projects\TIO\lab10\Chat\Chat\bin\Debug\RabbitMQ.Client.xml
+D:\Projects\TIO\lab10\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+D:\Projects\TIO\lab10\Chat\Chat\obj\Debug\Chat.exe
+D:\Projects\TIO\lab10\Chat\Chat\obj\Debug\Chat.pdb
